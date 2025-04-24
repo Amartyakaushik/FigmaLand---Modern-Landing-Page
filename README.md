@@ -89,9 +89,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Amartya Kaushik - kamartya20@gmail.com
 
-Project Link: [https://github.com/yourusername/figmaland](https://github.com/yourusername/figmaland)
+Project Link: [https://github.com/Amartyakaushik/FigmaLand---Modern-Landing-Page.git](https://github.com/Amartyakaushik/FigmaLand---Modern-Landing-Page.git)
 
 ## 🙏 Acknowledgments
 
